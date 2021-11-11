@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/whocluj/static/css/main.427d8a85.chunk.css",
+    "main.js": "/whocluj/static/js/main.dfb75996.chunk.js",
+    "main.js.map": "/whocluj/static/js/main.dfb75996.chunk.js.map",
+    "runtime-main.js": "/whocluj/static/js/runtime-main.30323a5a.js",
+    "runtime-main.js.map": "/whocluj/static/js/runtime-main.30323a5a.js.map",
+    "static/js/2.1d5f5793.chunk.js": "/whocluj/static/js/2.1d5f5793.chunk.js",
+    "static/js/2.1d5f5793.chunk.js.map": "/whocluj/static/js/2.1d5f5793.chunk.js.map",
+    "static/js/3.e4858804.chunk.js": "/whocluj/static/js/3.e4858804.chunk.js",
+    "static/js/3.e4858804.chunk.js.map": "/whocluj/static/js/3.e4858804.chunk.js.map",
+    "index.html": "/whocluj/index.html",
+    "static/css/main.427d8a85.chunk.css.map": "/whocluj/static/css/main.427d8a85.chunk.css.map",
+    "static/js/2.1d5f5793.chunk.js.LICENSE.txt": "/whocluj/static/js/2.1d5f5793.chunk.js.LICENSE.txt",
+    "static/media/ClujWHOLogo.7e7081ea.png": "/whocluj/static/media/ClujWHOLogo.7e7081ea.png",
+    "static/media/ClujWHOLogoBar.60b212d8.png": "/whocluj/static/media/ClujWHOLogoBar.60b212d8.png",
+    "static/media/appy-now.scss": "/whocluj/static/media/ClujWhoBackground.0ab6fb53.png",
+    "static/media/LEGO_logo.svg.b5b8d714.png": "/whocluj/static/media/LEGO_logo.svg.b5b8d714.png",
+    "static/media/man.73af59d0.svg": "/whocluj/static/media/man.73af59d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30323a5a.js",
+    "static/js/2.1d5f5793.chunk.js",
+    "static/css/main.427d8a85.chunk.css",
+    "static/js/main.dfb75996.chunk.js"
+  ]
+}
